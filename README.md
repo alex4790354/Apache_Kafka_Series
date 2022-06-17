@@ -1,2 +1,2 @@
 # Apache_Kafka_Series
-Exploring Apache Kafka
+Exploring Apache Kafka. Basic
