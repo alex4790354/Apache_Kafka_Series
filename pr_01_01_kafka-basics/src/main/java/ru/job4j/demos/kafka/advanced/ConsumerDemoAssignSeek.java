@@ -1,3 +1,5 @@
+// can check this tutorial: https://www.conduktor.io/kafka/advanced-kafka-consumer-with-java
+
 package ru.job4j.demos.kafka.advanced;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;

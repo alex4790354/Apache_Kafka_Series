@@ -42,6 +42,7 @@
 
     <modules>
         <module>pr_01_01_kafka-basics</module>
+        <module>pr_01_02_kafka-producer-wikimedia</module>
     </modules>
 
 </project>
