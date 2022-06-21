@@ -43,6 +43,7 @@
     <modules>
         <module>pr_01_01_kafka-basics</module>
         <module>pr_01_02_kafka-producer-wikimedia</module>
+        <module>pr_01_03_kafka-consumer-opensearch</module>
     </modules>
 
 </project>
