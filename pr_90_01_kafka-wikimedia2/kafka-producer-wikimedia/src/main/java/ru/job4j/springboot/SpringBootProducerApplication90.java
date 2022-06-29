@@ -6,14 +6,14 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootProducerApplication implements CommandLineRunner {
+public class SpringBootProducerApplication90 implements CommandLineRunner {
 
     @Autowired
     private WikimediaChangesProducer wikimediaChangesProducer;
 
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootProducerApplication.class);
+        SpringApplication.run(SpringBootProducerApplication90.class);
     }
 
     @Override
