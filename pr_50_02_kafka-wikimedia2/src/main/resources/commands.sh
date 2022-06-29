@@ -23,11 +23,3 @@ kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic topic-exampl
 kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic javaguides --from-beginning
 kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic javaguides_json --from-beginning
 
-
-
-17:00 
-теорию 
-ООП
-Хибирнет
-Анатации 
-Микросервисы. 
