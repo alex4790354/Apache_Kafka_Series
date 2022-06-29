@@ -1,2 +1,3 @@
 # Apache_Kafka_Series
-Exploring Apache Kafka. Basic
+Exploring Apache Kafka. 
+Create producer and consumer for Wikimedia

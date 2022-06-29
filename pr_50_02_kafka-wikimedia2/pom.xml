@@ -11,9 +11,9 @@
 	</parent>
 	
 	<groupId>ru.job4j</groupId>
-	<artifactId>pr_90_01_kafka-wikimedia2</artifactId>
+	<artifactId>pr_50_02_kafka-wikimedia2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>pr_90_01_kafka-wikimedia2</name>
+	<name>pr_50_02_kafka-wikimedia2</name>
 	<description>Demo project for Spring Boot and Kafka</description>
 	<packaging>pom</packaging>
 	
