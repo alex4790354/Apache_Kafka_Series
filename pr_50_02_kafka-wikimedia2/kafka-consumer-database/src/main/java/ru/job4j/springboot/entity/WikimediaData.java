@@ -12,7 +12,7 @@ public class WikimediaData {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    //@Lob
-    @Column(name = "wiki_event_data")
+    //@Lob - can be used for MySQL
+    @Column(columnDefinition="TEXT", name = "wiki_event_data")
     private String wikiEventData;
 }
