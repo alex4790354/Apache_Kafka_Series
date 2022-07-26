@@ -1,4 +1,4 @@
-package com.github.simplesteph.udemy.kafka.streams;
+package ru.job4j.demos.kafka.streams;
 
 import org.apache.kafka.clients.producer.ProducerRecord;
 import org.apache.kafka.common.serialization.LongDeserializer;

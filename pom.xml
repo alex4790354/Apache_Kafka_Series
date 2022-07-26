@@ -46,9 +46,11 @@
         <module>pr_01_03_kafka-consumer-opensearch</module>
         <module>pr_01_04_kafka-streams-wikimedia</module>
         <module>pr_11_02_kafka-connect-1.1</module>
+        <module>pr_21_01_word-count</module>
+        <module>pr_21_02_favourite-colour</module>
+
         <module>pr_50_01_springboot-kafka</module>
         <module>pr_50_02_kafka-wikimedia2</module>
-        <module>pr_21_01_word-count</module>
     </modules>
 
 </project>
