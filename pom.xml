@@ -49,6 +49,7 @@
         <module>pr_21_01_word-count</module>
         <module>pr_21_02_favourite-colour</module>
         <module>pr_21_03_bank-balance-exactly-once</module>
+        <module>pr_21_04_joints_user-event-enricher</module>
 
         <module>pr_50_01_springboot-kafka</module>
         <module>pr_50_02_kafka-wikimedia2</module>
