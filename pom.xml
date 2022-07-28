@@ -50,6 +50,8 @@
         <module>pr_21_02_favourite-colour</module>
         <module>pr_21_03_bank-balance-exactly-once</module>
         <module>pr_21_04_joints_user-event-enricher</module>
+        <module>pr_31_01_ksql_udf_taxi</module>
+        <module>pr_41_01_avro-examples</module>
 
         <module>pr_50_01_springboot-kafka</module>
         <module>pr_50_02_kafka-wikimedia2</module>

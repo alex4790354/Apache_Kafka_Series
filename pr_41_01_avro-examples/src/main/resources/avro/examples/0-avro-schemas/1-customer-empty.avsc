@@ -1,0 +1,8 @@
+{
+     "type": "record",
+     "namespace": "com.example",
+     "name": "Customer",
+       { "name": "", "type": "", "doc": "" },
+       { "name": "", "type": "", "doc": "" }
+     ]  
+}

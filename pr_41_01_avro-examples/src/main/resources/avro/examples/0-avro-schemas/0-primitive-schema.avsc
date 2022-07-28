@@ -1,0 +1,23 @@
+Primitive:
+    {"type": "null"}
+    {"type": "boolean"}
+    {"type": "int"}
+    {"type": "long"}
+    {"type": "float"}
+    {"type": "double"}
+    {"type": "bytes"}
+    {"type": "string"}
+
+
+    Enums,
+    Arrays
+    Maps
+    Unions
+    Calling other schemas as types
+
+Logical_Types:
+    decimals (bytes)
+    date                since Unix epoch (Jan 1 1970)
+    time-millis         since midnight
+    timestamp-millis    since Unix epoch (Jan 1 1970)
+
