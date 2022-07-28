@@ -9,7 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>avro-examples</artifactId>
+    <artifactId>pr_41_00_avro-examples</artifactId>
+    <name>pr_41_00_avro-examples</name>
 
 
     <properties>
